@@ -190,7 +190,7 @@
     }
     .popular-details .popular .popular-item img {
         padding: 11px 14px;
-        width: 92%;
+        /* width: 92%; */
     }
     /* popular part ends */
 }
